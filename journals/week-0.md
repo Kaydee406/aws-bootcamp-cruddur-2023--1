@@ -10,5 +10,7 @@ The diagram below shows a conceptual diagram for the illustration of our app des
 
 ### Create a Billing Alarm
 
-
 ### Create a Budget
+The diagram below is a snapshot of my aws budget alarm created on my *aws console*
+
+![](assets/aws%20budget%20assignment.PNG)
