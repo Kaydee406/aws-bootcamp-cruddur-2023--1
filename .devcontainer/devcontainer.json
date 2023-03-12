@@ -10,17 +10,15 @@
 			"extensions": [
 				"ms-azuretools.vscode-docker",
 				"ms-python.python",
-				"dracula-theme.theme-dracula"
-		
+				
 			],
 			"settings": {
 				"terminal.integrated.fontSize": 20,
-				"editor.fontSize": 14
+				"editor.fontSize": 20,
+				"workbench.colorTheme": "Default Dark+ Experimental"
 			}
 		}
 	}
-
-	
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
